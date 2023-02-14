@@ -50,5 +50,5 @@ print(
                       /_______________\\
     '''
 )
-print(f"Winner is {winner} with a bid of ${max}")P
+print(f"Winner is {winner} with a bid of ${max}")
 
