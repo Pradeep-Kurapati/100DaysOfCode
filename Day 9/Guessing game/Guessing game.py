@@ -1,11 +1,11 @@
 import random
-from art import logo
+from art import logo1
 
 print(logo1)
 
 def start():
     print("Welcome to guessing game!")
-    number = 50
+    number = random.randint(1,100)
     done = False
     while done == False:
         choice = input("Choose 'easy' or 'hard': ")
