@@ -1,4 +1,3 @@
-from turtle import Turtle
 from writer import Writer
 import turtle
 import pandas
@@ -10,24 +9,41 @@ screen.addshape(image)
 turtle.shape(image)
 
 state_list = pandas.read_csv('50_states.csv')
-states = []
 
-for x in state_list['state']:
-    states.append(x)
+# Alternative Method
+# states = []
+#
+# for x in state_list['state']:
+#     states.append(x)
+
+states = state_list['state'].to_list()
 
 guess = 0
 correct_guess = []
-while guess != 51:
+while len(correct_guess) <= 50:
     answer_state = screen.textinput(title=f'{guess} / 50', prompt="What's another state:").title()
+    if answer_state == 'Exit':
+        break
 
-    if answer_state in states and answer_state not in correct_guess:
+    elif answer_state in states and answer_state not in correct_guess:
 
         guess += 1
         correct_guess.append(answer_state)
         row = state_list[state_list.state == answer_state]
-        new_x = int(row['x'])
-        new_y = int(row['y'])
-        writer = Writer(new_x, new_y, answer_state)
 
+        # new_x = int(row['x'])
+        # new_y = int(row['y'])
+        # writer = Writer(new_x, new_y, answer_state)
 
-screen.exitonclick()
+        writer = Writer(int(row.x), int(row.y), answer_state)
+
+missed = []
+# states_to_learn.csv
+for x in states:
+    if x not in correct_guess:
+        missed.append(x)
+
+missed = pandas.DataFrame(missed, columns=['Missed State'])
+missed.to_csv('missed.csv', index=False)
+print(pandas.read_csv('missed.csv'))
+

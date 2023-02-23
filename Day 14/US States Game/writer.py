@@ -10,5 +10,6 @@ class Writer(Turtle):
         self.color('black')
         self.penup()
         self.goto(x, y)
-        self.write(state, align=ALIGNMENT, font=FONT)
+        # self.write(state, align=ALIGNMENT, font=FONT)
+        self.write(state)
         self.hideturtle()
