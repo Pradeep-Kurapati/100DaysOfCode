@@ -28,12 +28,10 @@ def reset_timer():
 def start_timer():
     global reps
     if reps % 2 == 0 and reps != 8:
-        # count_down(WORK_MIN * 60)
-        count_down(5)
+        count_down(WORK_MIN * 60)
         timer.config(text='WORK', fg='#590d22')
     elif reps % 2 == 1:
-        # count_down(SHORT_BREAK_MIN * 60)
-        count_down(3)
+        count_down(SHORT_BREAK_MIN * 60)
         timer.config(text='BREAK', fg='#a4133c')
     elif reps == 8:
         count_down(LONG_BREAK_MIN * 60)
