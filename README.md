@@ -32,3 +32,15 @@ Today, I put my skills to the test by building a fully-functional blackjack game
 
 ## Day 9: 🎯 Understanding Scope and Building Games
 Today, I learned about scope in Python and how it affects variables and functions. I put this knowledge to use by building a guessing game and a higher-lower game. It was a great way to practice my new skills and see how they can be applied in different contexts.
+
+## Day 10: ☕ Getting Started with Object Oriented Programming
+Today, I learned about object oriented programming basics. I built a Coffee machine program using both Procedural Programming as well as Object Oriented Programming to 
+only to realise object oriented programming approach drastically reduced code size and offered better management of code. I also used modules today! I used PrettyTable Module to create a list of Pokemon and their type. Modules are really powerful and shockingly portable.
+
+## Day 11: 🐢 I'm Loving Turtle
+TOday, I further explored module concept by using turtle module. Today is by far, the most colourful day in 100daysofcode journey. I literally made art using Python. I 
+drew a lot of things from basic shapes to Spirograph, Damien Hirst's spotted painting. 
+
+## Day 12: 🐍 Snake Game, Etch a Sketch, Turtle Race
+Today, I further made beautiful projects using the power of object oriented programming. I created a very fun Etch-a-sketch game and then I created a turtle race game but the ultimate project for today is the classic snake game. I'm very proud of what is built.
+
