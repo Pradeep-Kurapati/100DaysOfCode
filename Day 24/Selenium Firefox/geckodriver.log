@@ -1,0 +1,145 @@
+1678021379407	geckodriver	INFO	Listening on 127.0.0.1:63678
+1678021382476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofile4b493g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678021382899	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678021382905	Marionette	INFO	Listening on port 63690
+Read port: 63690
+WebDriver BiDi listening on ws://127.0.0.1:63679
+1678021383062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofile4b493g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63679/devtools/browser/17fefbd0-1075-41c5-b83f-97ec4b224325
+JavaScript warning: https://www.amazon.in/JBL-Cancellation-Playtime-Adjustable-Bluetooth/dp/B09HGR1DVC/?_encoding=UTF8&pd_rd_w=xGelI&content-id=amzn1.sym.b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_p=b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_r=A7C3BTE5EK08R2TZR4HS&pd_rd_wg=2donN&pd_rd_r=6157d6c0-e5a9-4c71-b8c1-c36500af3d45&ref_=pd_gw_ci_mcx_mr_hp_atf_m&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678021468156	Marionette	INFO	Stopped listening on port 63690
+Dynamically enable window occlusion 1
+1678021552826	geckodriver	INFO	Listening on 127.0.0.1:64120
+1678021555860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileZ9Cp2b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678021556212	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678021556218	Marionette	INFO	Listening on port 64135
+Read port: 64135
+WebDriver BiDi listening on ws://127.0.0.1:64121
+1678021556390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileZ9Cp2b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64121/devtools/browser/09f4f6fa-1819-41c5-a325-a49537177793
+Invalid port. Exiting...
+Invalid port. Exiting...
+1678022178076	geckodriver	INFO	Listening on 127.0.0.1:65171
+1678022344851	geckodriver	INFO	Listening on 127.0.0.1:65416
+1678022539765	geckodriver	INFO	Listening on 127.0.0.1:49345
+1678022542813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofile2AGRDP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678022543203	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678022543208	Marionette	INFO	Listening on port 49360
+Read port: 49360
+WebDriver BiDi listening on ws://127.0.0.1:49346
+1678022543368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofile2AGRDP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49346/devtools/browser/4efa66bf-cad4-4a36-9a48-7e3004316aa1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1678022564741	Marionette	INFO	Stopped listening on port 49360
+Dynamically enable window occlusion 1
+1678022753664	geckodriver	INFO	Listening on 127.0.0.1:50055
+1678022756724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileQr6txL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678022757154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678022757160	Marionette	INFO	Listening on port 50069
+Read port: 
+1678022757161	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 50069
+WebDriver BiDi listening on ws://127.0.0.1:50056
+1678022757334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileQr6txL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50056/devtools/browser/4678ad8e-3cce-4b4b-8cc4-3e260c4c61b4
+JavaScript warning: https://www.amazon.in/OnePlus-Bluetooth-Wireless-co-Created-Cancellation/dp/B0BRSLXGCN/?_encoding=UTF8&pd_rd_w=yVj68&content-id=amzn1.sym.b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_p=b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_r=7V7FB5S0JQTJX068TD3R&pd_rd_wg=foPVv&pd_rd_r=875ac722-e670-44bb-aa2a-d18aa4d34d69&ref_=pd_gw_ci_mcx_mr_hp_atf_m line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678023059064	Marionette	INFO	Stopped listening on port 50069
+Dynamically enable window occlusion 1
+&pf_rd_r=7V7FB5S0JQTJX068TD3R&pd_rd_wg=foPVv&pd_rd_r=875ac722-e670-44bb-aa2a-d18aa4d34d69&ref_=pd_gw_ci_mcx_mr_hp_atf_m line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678023094190	Marionette	INFO	Stopped listening on port 50784
+Dynamically enable window occlusion 1
+[Parent 26140, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1678023103285	geckodriver	INFO	Listening on 127.0.0.1:51107
+1678023106341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofilezPGDEy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678023106705	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678023106711	Marionette	INFO	Listening on port 51121
+Read port: 51121
+WebDriver BiDi listening on ws://127.0.0.1:51108
+1678023106924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofilezPGDEy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51108/devtools/browser/7f81e159-72f2-4b7b-aaa5-a1f079ce981d
+JavaScript warning: https://www.amazon.in/OnePlus-Bluetooth-Wireless-co-Created-Cancellation/dp/B0BRSLXGCN/?_encoding=UTF8&pd_rd_w=yVj68&content-id=amzn1.sym.b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_p=b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_r=7V7FB5S0JQTJX068TD3R&pd_rd_wg=foPVv&pd_rd_r=875ac722-e670-44bb-aa2a-d18aa4d34d69&ref_=pd_gw_ci_mcx_mr_hp_atf_m line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678023324276	Marionette	INFO	Stopped listening on port 51121
+Dynamically enable window occlusion 1
+1678023358501	geckodriver	INFO	Listening on 127.0.0.1:51804
+1678023361558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileoNF3d5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678023361935	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678023361940	Marionette	INFO	Listening on port 51818
+Read port: 51818
+WebDriver BiDi listening on ws://127.0.0.1:51805
+1678023362146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chandu\\AppData\\Local\\Temp\\rust_mozprofileoNF3d5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51805/devtools/browser/735c6e87-280e-4dc5-8634-7ba1a30cd20a
+JavaScript warning: https://www.amazon.in/OnePlus-Bluetooth-Wireless-co-Created-Cancellation/dp/B0BRSLXGCN/?_encoding=UTF8&pd_rd_w=yVj68&content-id=amzn1.sym.b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_p=b5b6da36-128a-4deb-abfd-563ae12c2d96&pf_rd_r=7V7FB5S0JQTJX068TD3R&pd_rd_wg=foPVv&pd_rd_r=875ac722-e670-44bb-aa2a-d18aa4d34d69&ref_=pd_gw_ci_mcx_mr_hp_atf_m line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678023436038	Marionette	INFO	Stopped listening on port 51818
+Dynamically enable window occlusion 1
